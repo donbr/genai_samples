@@ -5,6 +5,8 @@ Sample GenAI code and use cases are based on the following sources:
 - [Matthew Berman's gist](https://gist.github.com/mberman84/ea207e7d9e5f8c5f6a3252883ef16df3?permalink_comment_id=4870649) covering Autogen integration with Open Source LLMs using LiteLLM
 
 The main purpose of this repo is to compare the behavior of the Autogen Framework when using GPT4 vs Open Source LLMs, using a set of Jupyter Notebooks originally created for the OpenAI models.
+- the Ollama LLaVA notebook is about the only notebook that won't run.
+- most of the other Notebooks will run, but don't get a consistent result when compared to the OpenAI GPT4 results
 
 ## Background Information on AutoGen, Ollama, and LiteLLM
 - Check out Matthew Berman's YouTube videos For some great "getting started" content
