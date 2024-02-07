@@ -1,0 +1,27 @@
+[
+  {
+    "model": "ollama/llama2",
+    "base_url": "http://0.0.0.0:44674",
+    "api_key": "NULL"
+  },
+  {
+    "model": "ollama/mistral",
+    "base_url": "http://0.0.0.0:33944",
+    "api_key": "NULL"
+  },
+  {
+    "model": "ollama/mixtral",
+    "base_url": "http://0.0.0.0:13483",
+    "api_key": "NULL"
+  },
+  {
+    "model": "ollama/codellama",
+    "base_url": "http://0.0.0.0:10704",
+    "api_key": "NULL"
+  },
+  {
+    "model": "ollama/llava",
+    "base_url": "http://0.0.0.0:16345",
+    "api_key": "NULL"
+  }
+]
