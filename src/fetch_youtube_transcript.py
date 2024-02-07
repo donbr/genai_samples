@@ -12,6 +12,6 @@ def fetch_youtube_transcript(video_url: str) -> Optional[str]:
         return None
 
 # Example usage
-video_url = "https://www.youtube.com/watch?v=y7wMTwJN7rAcl"
+video_url = "https://www.youtube.com/watch?v=41EfOY0Ldkc&t"
 transcript = fetch_youtube_transcript(video_url)
 print(transcript)
